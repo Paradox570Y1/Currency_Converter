@@ -3,5 +3,5 @@
 ## Anvesha Jagga- 2310990207
 ## Apurav- 2310990208
 ## Archit- 2310990209
--Kunal kushwaha says that this cousrsse is awesome
 
+- I am learning git and github so please ignore the request :)
